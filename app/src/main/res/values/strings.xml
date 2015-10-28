@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Booking</string>
+    <string name="title_activity_add_room">AddRoomActivity</string>
+</resources>
