@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
 
     protected void onResume() {
         super.onResume();
-
+        // SqLite
         Realm realm = Realm.getInstance(getApplicationContext());
         List<Room> rooms = realm.allObjects(Room.class);
 
